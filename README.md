@@ -30,7 +30,7 @@ House-Prices-Data-Cleaning/
 |------|-------------|
 | `House_Prices_Data_Cleaning.ipynb` | Jupyter notebook containing the complete data cleaning process |
 | `house_prices_raw_dataset.csv` | Original House Prices dataset |
-| `cleaned_house_prices_dataset.csv` | Cleaned dataset after preprocessing |
+
 
 ## 🛠️ Technologies Used
 
