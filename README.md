@@ -20,7 +20,6 @@ House-Prices-Data-Cleaning/
 │
 ├── House_Prices_Data_Cleaning.ipynb
 ├── house_prices_raw_dataset.csv
-├── cleaned_house_prices_dataset.csv
 └── README.md
 ```
 
